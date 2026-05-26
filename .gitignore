@@ -1,5 +1,6 @@
 app.log
-secretes.json
+secret.json
+
 
 *.log
-/tmp
+
